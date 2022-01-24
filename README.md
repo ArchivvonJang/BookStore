@@ -2,11 +2,12 @@
 > JAVA를 활용한 작은서점 도서관리 Console Programm
 
 ### 사용기술
-| LanguageㅣJava |
-|-------|--------|
-| Database | Oracle |
-| Etc. |Github, Git, Command|
-| IDE | eclipse |
+
+|Language|Java|
+|---|:---|
+|Database|Oracle|
+|Etc.|Github, Git, Command|
+|IDE |eclipse|
 
 -----
 
