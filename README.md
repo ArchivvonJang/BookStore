@@ -2,19 +2,18 @@
 > JAVA를 활용한 작은서점 도서관리 Console Programm
 
 ### 사용기술
-|LanguageㅣJava
-|---|---
-|Database|Oracle
-|Etc.|Github, Git, Command
-|IDE|eclipse
+|LanguageㅣJava|
+|---|---|
+|Database|Oracle|
+|Etc.|Github, Git, Command|
+|IDE|eclipse|
 
 -----
 
 ### 기능
 #### 1. 로그인
+* 회원/관리자 로그인
 ![슬라이드3](https://user-images.githubusercontent.com/76926509/150718173-d577fe8f-6424-47d5-a9e6-43801b72a955.JPG)
-
-------
 
 #### 2. 도서관리
 
@@ -39,6 +38,7 @@
 
 
 #### 4. 다이어그램
+* 다이어그램
 ![슬라이드13](https://user-images.githubusercontent.com/76926509/150718697-dc4a6973-231e-49ea-8fe6-07aa9a45721a.JPG)
 
 
