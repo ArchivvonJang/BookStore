@@ -6,8 +6,8 @@
 |Language|Java|
 |---|:---|
 |Database|Oracle|
-|Etc.|Github, Git, Command|
-|IDE |eclipse|
+|Etc.|Github, Git, Windows PowerShell|
+|IDE |Eclipse|
 
 -----
 
